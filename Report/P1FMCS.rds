@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="P1FMCS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=FE12AZ02;Initial Catalog=FE12AP1</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>b61d03ac-c649-4e95-9153-5d67cd66814b</DataSourceID>
+</RptDataSource>
